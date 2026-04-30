@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{-webkit-font-smoothing:antialiased}
+input:focus{border-color:#D4AF37!important;box-shadow:0 0 0 3px rgba(212,175,55,0.15)!important}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-thumb{background:rgba(212,175,55,0.2);border-radius:3px}
